@@ -1,5 +1,5 @@
 {
-    "name": "andrewi-wd/bitbucket-api",
+    "name": "lokalise/bitbucket-api",
     "type": "library",
     "description": "Bitbucket API wrapper for PHP >= 5.4",
     "homepage": "https://bitbucket.org/gentlero/bitbucket-api",
